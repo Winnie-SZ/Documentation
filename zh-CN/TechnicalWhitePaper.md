@@ -2,7 +2,7 @@
 
 **草案：2017 年 6 月 26 日 (@dayzh (https://steemit.com/@dayzh))**
 
-**摘要：** EOS.IO 软件引入一种新的区块链架构设计，它使得去中心化的应用可以横向和纵向的扩展。 这通过构建一个仿操作系统的方式来实现，在它之上可以构建应用程序。 该软件提供帐户、身份验证、数据库、异步通信和跨越数百个 CPU 内核或集群的应用程序调度。 由此产生的技术是一种区块链架构，它可以扩展至每秒处理百万级交易，消除用户的手续费，并且允许快速和轻松的部署去中心化的应用。
+**摘要：** EOS.IO软件引入一种新的区块链架构，旨在实现去中心化应用的纵向和横向扩展。 通过创建一个类似操作系统的基础架构，并在这个架构上开发应用程序来实现这个目的。该软件提供账户、身份验证、数据库、异步通信和可以跨越数百个 CPU 内核或集群的应用程序调度。由此产生的技术是一种区块链架构，通过扩展，它能够快速和轻松地部署去中心化应用，取消用户的手续费，每秒处理百万级交易。
 
 **PLEASE NOTE: CRYPTOGRAPHIC TOKENS REFERRED TO IN THIS WHITE PAPER REFER TO CRYPTOGRAPHIC TOKENS ON A LAUNCHED BLOCKCHAIN THAT ADOPTS THE EOS.IO SOFTWARE. THEY DO NOT REFER TO THE ERC-20 COMPATIBLE TOKENS BEING DISTRIBUTED ON THE ETHEREUM BLOCKCHAIN IN CONNECTION WITH THE EOS TOKEN DISTRIBUTION.**
 
